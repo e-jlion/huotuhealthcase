@@ -2,12 +2,12 @@
 
 > vue 2.0 demo (vue+vuex+vue-router+fetch)
 
-vueDemo 仅仅写了安装构建的说明，功能例子说明没有详细写清楚
+> vueDemo 仅仅写了安装构建的说明，功能例子说明没有详细写清楚
 里面包含了如下知识点：
-1、vuex 
-2、vue-router
-2、fetch 请求api接口数据说明，但是地址是我本地的没有搭建外网环境
-3、父组件向子组件传递数据做局部模块loading 效果
+> 1、vuex 
+> 2、vue-router
+> 2、fetch 请求api接口数据说明，但是地址是我本地的没有搭建外网环境
+> 3、父组件向子组件传递数据做局部模块loading 效果
 
 ## Build Setup
 
