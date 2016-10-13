@@ -1,6 +1,6 @@
 # huotuhealthcase
 
-> 保健品项目
+> vue 2.0 demo (vue+vuex+vue-router+fetch)
 
 ## Build Setup
 
