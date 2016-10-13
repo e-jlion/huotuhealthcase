@@ -1,8 +1,8 @@
 {
   "name": "huotuhealthcase",
   "version": "1.0.0",
-  "description": "人参果果",
-  "author": "杭州火图科技有限公司",
+  "description": "vueDemo",
+  "author": "xhl",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
