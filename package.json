@@ -1,9 +1,8 @@
 {
   "name": "huotuhealthcase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vueDemo",
-  "author": "xhl",
-  "private": true,
+  "author": "jlion",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
@@ -14,7 +13,8 @@
   "dependencies": {
     "vue": "^2.0.1",
     "vue-router": "^2.0.0",
-    "vue-resource": "^1.0.3"
+    "vue-resource": "^1.0.3",
+    "starchain": "^1.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
