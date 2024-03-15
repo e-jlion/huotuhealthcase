@@ -1,8 +1,8 @@
 # huotuhealthcase
 
-> vue 2.0 demo (vue+vuex+vue-router+fetch)
+> vue 2.0 huotuhealthcase (vue+vuex+vue-router+fetch)
 
-## vueDemo 仅仅写了安装构建的说明，功能例子说明没有详细写清楚
+## huotuhealthcase 仅仅写了安装构建的说明，功能例子说明没有详细写清楚
 里面包含了如下知识点：
 ### 1、vuex 
 ### 2、vue-router
